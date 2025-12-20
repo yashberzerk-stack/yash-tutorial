@@ -7,6 +7,6 @@ int main(){
     if(1&&2){
         printf("logical operator performed");
     }    
-    printf("%d", 2&2);
+    printf("%d", 3&7);
     return 0;
 }
